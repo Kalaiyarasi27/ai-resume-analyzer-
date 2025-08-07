@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Live Demo  
-👉 [View on Vercel](https://ai-resume-analyzer-.vercel.app)
+[![Vercel](https://vercelbadge.vercel.app/api/Kalaiyarasi27/ai-resume-analyzer-](https://ai-resume-analyzer-ahes.vercel.app)
 
 ---
 
@@ -90,7 +90,7 @@ Open your browser at: [http://localhost:5173](http://localhost:5173)
 
 You can access additional assets like icons, images, and logos inside the `public/readme` directory.
 
----
+
 
 ## 🚀 More
 
@@ -98,19 +98,9 @@ You can access additional assets like icons, images, and logos inside the `publi
 * Learn resume optimization best practices
 * Adapt your resume for different roles with ease
 
----
 
-## 🛠 Contributing
 
-Pull requests are welcome. For major changes, open an issue first to discuss what you would like to change.
 
----
 
 **Dreamt, designed, and developed 🚀 – KALAIYARASI N**
 
-```
-
----
-
-Let me know once you've added this to your README, and I can help you with the final push to GitHub or anything else like posting to LinkedIn.
-```
