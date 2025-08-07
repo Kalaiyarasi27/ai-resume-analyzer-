@@ -6,7 +6,8 @@
 ---
 
 ## 🚀 Live Demo  
-[![Vercel](https://vercelbadge.vercel.app/api/Kalaiyarasi27/ai-resume-analyzer-](https://ai-resume-analyzer-ahes.vercel.app)
+👉 [View on Vercel](https://ai-resume-analyzer-ahes.vercel.app)
+
 
 ---
 
