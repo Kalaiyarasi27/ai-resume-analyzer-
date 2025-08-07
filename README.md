@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Live Demo  
-👉 [View on Vercel](https://ai-resume-analyzer-ahes.vercel.app)
+👉 [View on Vercel](https://ai-resume-analyzer-fbz6runi6-kalaiyarasis-projects-7133f7b6.vercel.app/upload)
 
 
 ---
