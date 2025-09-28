@@ -25,7 +25,7 @@ This application empowers job seekers by:
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * ⚛ **React (with Vite)** – Fast, component-driven frontend
 * 🎨 **Tailwind CSS** – Utility-first styling for modern UI
@@ -37,7 +37,7 @@ This application empowers job seekers by:
 
 ---
 
-## ✨ Features
+##  Features
 
 *  **Secure, Browser-based Authentication** (via Puter.js)
 *  **Resume Upload & Parsing** (PDF supported)
