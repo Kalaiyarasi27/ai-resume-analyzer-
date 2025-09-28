@@ -1,4 +1,4 @@
-# AI Resume Analyzer
+# AI Resume Analyzer 📈
 
 An **AI-powered Resume Analyzer** that intelligently compares resumes with job descriptions using **NLP**, **LangChain**, and **OpenAI GPT models**. Designed with a modern frontend stack (**React + TypeScript + Vite**) and styled using **Tailwind CSS**, the app delivers a seamless and professional user experience.
 
